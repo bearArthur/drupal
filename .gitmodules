@@ -1,0 +1,4 @@
+[submodule "sites/all/modules/contrib/mongodb"]
+	path = sites/all/modules/contrib/mongodb
+	url = https://git.drupal.org/project/mongodb.git
+	branch = 7.x-1.x
